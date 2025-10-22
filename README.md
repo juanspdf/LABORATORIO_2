@@ -769,17 +769,17 @@ respuesta = cliente.recv(4096).decode()  # 4KB buffer
 Este proyecto es un trabajo académico para fines educativos.
 
 **Autor:** Juan David Pasquel Ruiz  
-**Institución:** [Nombre de la Universidad/Institución]  
-**Curso:** [Nombre del Curso]  
-**Fecha:** [Fecha de entrega]
+**Institución:** Universidad de las Fuerzas Armadas ESPE 
+**NRC:** 27885 
+
 
 ---
 
 ## Contacto
 
 Para preguntas o reportar problemas:
-- **Email:** [correo@ejemplo.com]
-- **GitHub:** [usuario/repositorio]
+- **Email:** [jdpasquel1@espe.edu.ec]
+- **GitHub:** [juanspdf/LABORATORIO_2]
 
 ---
 
