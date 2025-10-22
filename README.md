@@ -134,7 +134,7 @@ El proyecto utiliza **únicamente bibliotecas estándar de Python**:
 
 ### Preparación Inicial
 
-#### 1. Preparar el archivo de NRCs (obligatorio para servidor con hilos)
+#### 1. Preparar el archivo de NRCs (opcional)
 
 Cree o edite el archivo `nrcs.csv` en el directorio raíz con el siguiente formato:
 
